@@ -1,15 +1,13 @@
 # wfetch
 Worlds Fastest *NIX fetch tool.
 
-15 times faster than fastfetch!
-
 ![img](https://github.com/j0shua-daniel/images/blob/main/2024-12-29_16-02.png)
 
-wfetch vs fastfetch
+15 times faster than fastfetch!
 
 ![img](https://github.com/j0shua-daniel/images/blob/main/bench.png)
 
-It only displays three things
+It only displays three things:
 
 1. The shell
 2. The terminal
