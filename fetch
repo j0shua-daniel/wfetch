@@ -1,0 +1,3 @@
+echo "SH: $SHELL"
+echo "TE: $TERM"
+echo "US: $USER"
