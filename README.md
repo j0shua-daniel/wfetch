@@ -12,3 +12,9 @@ It only displays three things:
 1. The shell
 2. The terminal
 3. The user
+
+## Todo:
+- [ ] Add More system info.
+- [ ] Make it even faster.
+- [ ] Add some distro logos.
+
